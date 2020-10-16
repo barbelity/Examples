@@ -24,8 +24,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurationExample", "src
 		{DA92D3F1-CCA8-45EA-BB95-74F0158E76C5} = {DA92D3F1-CCA8-45EA-BB95-74F0158E76C5}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurationExamplePlugin", "src\ConfigurationExamplePlugin\ConfigurationExamplePlugin.csproj", "{DA92D3F1-CCA8-45EA-BB95-74F0158E76C5}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurationExampleInterface", "src\ConfigurationExampleInterface\ConfigurationExampleInterface.csproj", "{477A33C0-33EE-4176-BA3F-7EF56B46A811}"
 EndProject
 Global
