@@ -19,11 +19,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfExample", "src\WcfExampl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFormsExample", "src\WebFormsExample\WebFormsExample.csproj", "{F966402C-3F18-4FC4-B5E6-8049C79614B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurationExample", "src\ConfigurationExample\ConfigurationExample.csproj", "{40F6A888-F5E2-4B1E-8913-1E8ED3E6621E}"
-	ProjectSection(ProjectDependencies) = postProject
-		{DA92D3F1-CCA8-45EA-BB95-74F0158E76C5} = {DA92D3F1-CCA8-45EA-BB95-74F0158E76C5}
-	EndProjectSection
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurationExampleInterface", "src\ConfigurationExampleInterface\ConfigurationExampleInterface.csproj", "{477A33C0-33EE-4176-BA3F-7EF56B46A811}"
 EndProject
 Global
